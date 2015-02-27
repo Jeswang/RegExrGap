@@ -1,0 +1,3 @@
+[submodule "regexr"]
+	path = regexr
+	url = https://github.com/Jeswang/regexr.git
